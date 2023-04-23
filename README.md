@@ -47,5 +47,6 @@ http://127.0.0.1:5000
 
 - Would love to see Pull Requests and to get help and feedback from the cyber community in order to improve the tool and detection abilities.
 - 💡 Idea: Why not get this made into a site which means many more people will be able to use it?
+- Also need to look to upgrade to YOLOv8
 
 
