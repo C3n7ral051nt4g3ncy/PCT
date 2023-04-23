@@ -1,0 +1,15 @@
+opencv-python
+Opencv-python-headless
+torch 
+torchvision
+flask
+utils
+requests
+detect
+pandas
+pyyaml
+matplotlib
+base
+yolov5
+numpy
+np
