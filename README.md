@@ -37,7 +37,7 @@ python3 pct.py
 ```
 
 
-Once you have launched the python script, head to the development server on:
+Once you have launched the python script, head to the Flask development server on:
 
 ``` 
 http://127.0.0.1:5000
