@@ -5,7 +5,7 @@
 
 # People Count Tool (PCT) - Artificial Intelligence (AI) to count people on photos
 <br>
-People Count Tool uses AI with <a href="https://ultralytics.com/yolov5">YOLOv5</a>  is a model in the You Only Look Once (YOLO) family of computer vision models. YOLOv5 is commonly used for detecting objects. Fast, precise and easy to train, YOLOv5 has a long and successful history of real time object detection
+People Count Tool uses AI with <a href="https://ultralytics.com/yolov5">YOLOv5</a>, which  is a model in the You Only Look Once (YOLO) family of computer vision models. YOLOv5 is commonly used for detecting objects. Fast, precise and easy to train, YOLOv5 has a long and successful history of real time object detection
 
 <img width="433" src="https://user-images.githubusercontent.com/104733166/233858946-6173753b-7155-4893-a2a2-df404bd9507c.png">
 <br>
